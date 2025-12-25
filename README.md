@@ -16,6 +16,11 @@ I am a data science and Finance student at Northeastern University. I am very pa
 - Uses publicly surveyed data
 - Data Visualizatoin to visualize trends and graphs.
 
+## Github Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kostub17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
+
+
+
 <!--
 **Kostub17/Kostub17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
